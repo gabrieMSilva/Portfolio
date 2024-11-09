@@ -7,6 +7,7 @@ export const Container = styled.div`
     padding: 8px 10px;
     background-color: var(--secondary);
     border-radius: 8px;
+    cursor: pointer;
     
     &:hover{
         scale: 1.1;

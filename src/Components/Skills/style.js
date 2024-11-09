@@ -11,6 +11,8 @@ export const  Container = styled.div`
         font-weight: 700;
         color: var(--white);
         font-family: serif;
+        border-bottom: 2px solid var(--secondary);
+        max-width: 110px;
     }
 `
 export const  ContainerCards = styled.div`

@@ -37,7 +37,7 @@ export const Menu = styled.div`
     }
     li{
         cursor: pointer;
-        text-decoration: underline wavy;
+        border-bottom: 1px solid var(--secondary);
         font-size: 24px;
         font-weight: bold;
       
@@ -46,6 +46,10 @@ export const Menu = styled.div`
     a{
         color: var(--white);
         text-decoration: none;
+    }
+    li:hover{
+        scale: 1.2;
+        transition: 1s;
     }
    
 
