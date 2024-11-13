@@ -1,11 +1,15 @@
 import { Container, Menu, Text } from "./style";
-import Profile from '../../assets/profile.jpg'
+import Profile from '../../assets/Profile.jpeg'
 import {Link} from 'react-router-dom'
 
 
 
 
-export function Header(){ 
+
+export function Header(){
+    
+   
+
     return(
         <Container>
             <Text>
@@ -28,3 +32,4 @@ export function Header(){
         </Container>
     )
 }
+

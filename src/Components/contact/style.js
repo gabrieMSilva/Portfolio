@@ -23,7 +23,7 @@ export const InputsContainer = styled.div`
         width: 100%;
         display: flex;
         flex-direction: column;
-        margin-top: 1rem;
+        margin-top: 4rem;
         
         input{
             margin-bottom: 14px;
@@ -55,6 +55,12 @@ export const InputsContainer = styled.div`
             color: var(--white);
             font-size: 18px;
             font-weight: 700;
+            cursor: pointer;
+        }
+        .btn:hover{
+            background-color: var(--white);
+            color: #000;
+            transition: 1s;
         }
     }
     

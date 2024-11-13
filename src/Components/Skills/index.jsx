@@ -11,12 +11,12 @@ export function Skills(){
         <Container>
             <h1>Skills</h1>
             <ContainerCards>
-                <Cards name="React JS" icon={<FaReact color="#fff" size={32}/>}/>
-                <Cards name="Node JS" icon={<FaNodeJs color="#fff" size={32}/>}/>
-                <Cards name="Next JS" icon={<RiNextjsFill color="#fff" size={32} />}/>
-                <Cards name="TypeScript" icon={<SiTypescript color="#fff" size={32}/>}/>
-                <Cards name="Tailwind CSS" icon={<RiTailwindCssFill color="#fff" size={32}/>}/>
-                <Cards name="JavaScript" icon={<IoLogoJavascript color="#fff" size={32}/>}/>
+                <Cards name="React JS" icon={<FaReact color="#000" size={24}/>}/>
+                <Cards name="Node JS" icon={<FaNodeJs color="#000" size={24}/>}/>
+                <Cards name="Next JS" icon={<RiNextjsFill color="#000" size={24} />}/>
+                <Cards name="TypeScript" icon={<SiTypescript color="#000" size={24}/>}/>
+                <Cards name="Tailwind CSS" icon={<RiTailwindCssFill color="#000" size={24}/>}/>
+                <Cards name="JavaScript" icon={<IoLogoJavascript color="#000" size={24}/>}/>
                 
 
             </ContainerCards>

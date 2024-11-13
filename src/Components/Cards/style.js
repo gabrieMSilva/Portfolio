@@ -4,8 +4,8 @@ import styled from 'styled-components'
 
 export const Container = styled.div`
     max-width: 255px;
-    padding: 8px 10px;
-    background-color: var(--secondary);
+    padding: 5px 8px;
+    background-color: var(--white);
     border-radius: 8px;
     cursor: pointer;
     
@@ -25,7 +25,7 @@ export const Cardscontent = styled.div`
 export const Title = styled.div`
     font-size: 28px;
     font-weight: 700;
-    color: var(--white);
+    color: #000;
 `
 
 

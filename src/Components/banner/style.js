@@ -5,6 +5,7 @@ import styled from 'styled-components'
 export const Container = styled.div`
     margin-top: 3rem;
     padding:  6rem 300px ;
+    transform: translateX(-700px);
 `
 export const Title = styled.h2`
     font-size: 18px;

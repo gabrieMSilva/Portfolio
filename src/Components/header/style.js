@@ -12,7 +12,7 @@ export const Container = styled.div`
 `
 export const Text = styled.div`
     display: flex;
-    align-items: center;
+    align-items: flex-end;
     gap: 1rem;
     
 
@@ -48,8 +48,8 @@ export const Menu = styled.div`
         text-decoration: none;
     }
     li:hover{
-        scale: 1.2;
-        transition: 1s;
+       scale: 1.1;
+       transition: 0.5s;
     }
    
 
