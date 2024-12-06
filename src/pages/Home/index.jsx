@@ -8,6 +8,7 @@ import { Skills } from "../../Components/Skills";
 
 
 
+
 export function Home(){
     return(
         <>
@@ -17,5 +18,7 @@ export function Home(){
             <Contact/>
             <Footer/>
         </>
+        
+   
     )
 }

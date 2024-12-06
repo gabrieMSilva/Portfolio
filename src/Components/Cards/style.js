@@ -9,6 +9,7 @@ export const Container = styled.div`
     border-radius: 8px;
     cursor: pointer;
     
+    
     &:hover{
         scale: 1.1;
         transition: ease-in-out 1s;

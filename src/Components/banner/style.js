@@ -6,6 +6,15 @@ export const Container = styled.div`
     margin-top: 3rem;
     padding:  6rem 300px ;
     transform: translateX(-700px);
+    @media (max-width: 1024px) {
+        padding: 6rem 150px;
+        transform: translateX(-400px);
+    }
+
+    @media (max-width: 768px) {
+        padding: 4rem 50px;
+        transform: translateX(0);
+    }
 `
 export const Title = styled.h2`
     font-size: 18px;

@@ -36,7 +36,7 @@ export function About(){
                 <p>Atualmente, estou no quarto período do curso de Análise e Desenvolvimento de Sistemas na UNINASSAU, onde adquiro conhecimento teórico e prático sobre desenvolvimento de software, arquitetura de sistemas e banco de dados. Além disso, tenho o ensino médio completo e inglês intermediário, o que me permite compreender e me comunicar em um ambiente de desenvolvimento globalizado.</p>
             </Text>
         </Container>
-        <Footer/>
+        
         </>
     )
 }

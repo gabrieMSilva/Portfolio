@@ -15,6 +15,9 @@ export const Container = styled.div`
         max-width: 230px;
         
     }
+    @media (max-width: 768px) {
+        padding: 5rem 2rem;
+    }
 
 `
 export const CardsContainer = styled.div`

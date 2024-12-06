@@ -18,7 +18,7 @@ export function Footer(){
                         <FaLinkedin color="#fff" size={32}/>
                     </Link>
                 </Items>
-                <h3>Made By Gabriel Silva</h3>
+                <h3>Feito Por Gabriel Silva</h3>
             </ContainerLinks>
         </Container>
     )

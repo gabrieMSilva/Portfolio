@@ -23,11 +23,11 @@ export function Banner(){
         <Container className="container">
             <Title>
                <h2>
-                    Hello, my name is Gabriel
+                    Olá, meu nome é Gabriel
                 </h2> 
             </Title>
             <Text>
-                <h1>I make websites.</h1>
+                <h1>Eu crio sites.</h1>
                 
             </Text>
             <Subtext>
